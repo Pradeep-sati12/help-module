@@ -11,6 +11,6 @@ class HelpModule extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return \Help-module\HelpModule\HelpModule::class;
+        return \Help - module\HelpModule\HelpModule::class;
     }
 }
